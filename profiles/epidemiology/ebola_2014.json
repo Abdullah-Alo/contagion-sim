@@ -1,0 +1,13 @@
+{
+  "name": "Ebola 2014",
+  "domain": "epidemiology",
+  "year": 2014,
+  "infect_rate": 0.45,
+  "recover_rate": 0.18,
+  "patch_rate": 0.0,
+  "reinfection": false,
+  "topology": "Grid",
+  "color": [180, 30, 30],
+  "description": "2014 West Africa outbreak, Sierra Leone. Spread via direct contact with infectious bodily fluids. High mortality, slow recovery.",
+  "source": "Althaus, PLOS Currents Outbreaks (2014)"
+}

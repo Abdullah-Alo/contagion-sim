@@ -1,0 +1,13 @@
+{
+  "name": "WannaCry",
+  "domain": "cybersecurity",
+  "year": 2017,
+  "infect_rate": 0.70,
+  "recover_rate": 0.0,
+  "patch_rate": 0.08,
+  "reinfection": false,
+  "topology": "Hub-and-spoke",
+  "color": [255, 60, 120],
+  "description": "2017 ransomware exploiting EternalBlue SMB vulnerability. Spread via enterprise intranets. Systems do not self-recover — only patching removes vulnerability.",
+  "source": "Chernikova et al., Applied Network Science (2022); Microsoft MSRC"
+}

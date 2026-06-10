@@ -1,0 +1,13 @@
+{
+  "name": "COVID-19 Wuhan",
+  "domain": "epidemiology",
+  "year": 2019,
+  "infect_rate": 0.50,
+  "recover_rate": 0.13,
+  "patch_rate": 0.0,
+  "reinfection": false,
+  "topology": "Random",
+  "color": [100, 180, 220],
+  "description": "Original SARS-CoV-2 Wuhan strain. Airborne transmission with significant asymptomatic spread. Parameters reflect pre-variant, pre-lockdown dynamics.",
+  "source": "Roda et al., Infectious Disease Modelling (2020)"
+}

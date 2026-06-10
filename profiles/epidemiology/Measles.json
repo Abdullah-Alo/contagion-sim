@@ -1,0 +1,13 @@
+{
+  "name": "Measles",
+  "domain": "epidemiology",
+  "year": 1861,
+  "infect_rate": 0.28,
+  "recover_rate": 0.086,
+  "patch_rate": 0.0,
+  "reinfection": false,
+  "topology": "Grid",
+  "color": [220, 140, 40],
+  "description": "Based on 1861 Hagelloch outbreak data. Highly contagious airborne disease constrained by clustered household and classroom networks.",
+  "source": "Gallagher et al., EpiCompare / Neal et al., Biostatistics"
+}

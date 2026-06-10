@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exported simulation data
+export_*.csv
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

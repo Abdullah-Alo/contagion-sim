@@ -1,0 +1,13 @@
+{
+  "name": "1918 Spanish Flu",
+  "domain": "epidemiology",
+  "year": 1918,
+  "infect_rate": 0.71,
+  "recover_rate": 0.24,
+  "patch_rate": 0.0,
+  "reinfection": false,
+  "topology": "Random",
+  "color": [180, 100, 20],
+  "description": "1918 H1N1 influenza pandemic. Airborne transmission with wide social mixing. Unique W-shaped mortality hitting young adults hardest.",
+  "source": "Chowell et al., J.R. Soc. Interface (2007)"
+}

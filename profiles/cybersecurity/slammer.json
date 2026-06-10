@@ -1,0 +1,13 @@
+{
+  "name": "SQL Slammer",
+  "domain": "cybersecurity",
+  "year": 2003,
+  "infect_rate": 0.95,
+  "recover_rate": 0.0,
+  "patch_rate": 0.02,
+  "reinfection": true,
+  "topology": "Hub-and-spoke",
+  "color": [255, 69, 0],
+  "description": "Fastest spreading worm in history. Single 376-byte UDP packet, no handshake required. Doubled infected hosts every 8.5 seconds. Memory-resident — reboot returns host to susceptible.",
+  "source": "Moore et al., CAIDA/UCSD (2003)"
+}
