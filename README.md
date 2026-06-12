@@ -216,6 +216,14 @@ fatality rate.
 
 ## Author
 
-Abdullah — B.S. Information Assurance and Cyber Defense, Eastern Michigan
+Abdullah - B.S. Information Assurance and Cyber Defense, Eastern Michigan
 University (Summa Cum Laude, 2026). Built as a portfolio project exploring
 the intersection of network security and computational epidemiology.
+
+## Licensing
+
+This project is dual-licensed:
+* **Open Source:** Licensed under the [GNU GPLv3](LICENSE).
+* **Commercial:** Commercial use, integration into closed-source applications, or deployment without sharing your own source code requires a separate proprietary license. 
+
+For commercial licensing inquiries, please contact: **abdullah1alobaidi@gmail.com**.
